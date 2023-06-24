@@ -14,7 +14,5 @@
     </script>
 </head>
 <body>
-    <h1>Contenido del archivo de texto:</h1>
-    <pre id="content"></pre>
 </body>
 </html>
